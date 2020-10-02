@@ -1,0 +1,33 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    
+}
+
+/*
+.container {
+    width: auto;
+    max-width: 1140px;
+    
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    max-width: 1110px;
+    height: 60px;
+    max-height: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+} */
+
